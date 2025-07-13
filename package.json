@@ -1,0 +1,12 @@
+{
+  "name": "js-hindi",
+  "version": "1.0.0",
+  "description": "A code repo for javascript series made by me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
